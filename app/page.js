@@ -5,8 +5,6 @@ export default function page() {
     <div className=" flex">
      {/* <Header/> */}
      <Arrval/>
-     <Arrval/>
-     <Arrval/>
     </div>
   )
 }
