@@ -7,8 +7,8 @@ export default function Card(prop) {
       <Image
     src={prop.src}
     alt="Header"
-    width={530}
-    height={530}
+    width={270}
+    height={270}
 />
       </div>
       <div className=' flex text ml-10'>

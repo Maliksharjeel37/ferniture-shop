@@ -7,13 +7,13 @@ export default function page() {
     <h1 className=" font-bold text-2xl  text-black text-center p-8">New Arrivals</h1>
     <div className=" flex">
     <ArrvalCard  text=" Wooden Chair" price="$65.00" src="/images/arrivals1 (1).png"/>
-    <ArrvalCard  text=" Wooden Chair" price="$65.00" src="/images/arrivals2.png"/>
+    <ArrvalCard  text=" Single Armchair" price="$45.00" src="/images/arrivals2.png"/>
     <ArrvalCard  text=" Wooden Chair" price="$65.00" src="/images/arrivals3.png"/>
    </div>
    <div className=" flex mt-7">
-    <ArrvalCard  text=" Wooden Chair" price="$65.00" src="/images/arrivals4.png"/>
+    <ArrvalCard  text=" Stylish Chair" price="$85.00" src="/images/arrivals4.png"/>
     <ArrvalCard  text=" Wooden Chair" price="$65.00" src="/images/arrivals5.png"/>
-    <ArrvalCard  text=" Wooden Chair" price="$65.00" src="/images/arrivals6.png"/>
+    <ArrvalCard  text=" Wooden Chair" price="$65.00" src="/images/arrivals4.png"/>
    </div>
   </div>
   )
