@@ -1,6 +1,6 @@
 import Header from "./(Componets)/Header/herder"
 import Arrval from "./Arrival/page"
-import Featurs from "./(Componets)/FeaturesCard/card"
+import Featurs from "./Features/page"
 export default function page() {
   return (
     <div className=" flex">
